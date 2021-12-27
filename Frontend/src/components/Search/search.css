@@ -1,0 +1,27 @@
+.search {
+    margin-top: 90px;
+    text-align: center;
+}
+
+.name-search {
+    height: 40px;
+    width: 350px;
+    padding: 10px;
+    border: 1px solid cornflowerblue;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.submit {
+    height: 40px;
+    width: 80px;
+    padding: 10px;
+    border: 1px solid cornflowerblue;
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 10px;
+}
+
+.submit:hover {
+    cursor: pointer;
+}

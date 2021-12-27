@@ -1,0 +1,56 @@
+.addCandidates {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.inputs {
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+}
+
+.inputs label {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.inputs label input {
+    width: 200px;
+    padding: 5px;
+    border: 1px solid cornflowerblue;
+    border-radius: 10px;
+}
+
+.skills {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box {
+    display: flex;
+}
+
+.box input {
+    margin-right: 10px;
+    width: 200px;
+    padding: 5px;
+    border: 1px solid cornflowerblue;
+    border-radius: 10px;
+}
+
+.plus{
+    padding: 2px;
+    border: 2px solid cornflowerblue;
+    border-radius: 50%;
+    color: cornflowerblue;
+    margin: 5px;
+}
+
+.plus:hover {
+    cursor: pointer;
+}

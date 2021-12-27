@@ -1,0 +1,27 @@
+.navbar {
+    height: 80px;
+    background-color:cornflowerblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+.list {
+    list-style: none;
+    display: flex;
+}
+
+.link-listItem {
+    color: white;
+    margin-right: 40px;
+    font-size: 20px;
+}
+
+.link-listItem:hover {
+    cursor: pointer;
+}
+

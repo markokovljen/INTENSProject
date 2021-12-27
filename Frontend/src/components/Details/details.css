@@ -1,0 +1,22 @@
+.details {
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+    width: 50%;
+    border: 1px solid cornflowerblue;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.candidateName {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.detail {
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid cornflowerblue;
+}
